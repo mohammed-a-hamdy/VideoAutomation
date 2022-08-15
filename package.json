@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "colors": "^1.4.0",
+    "download": "^8.0.0",
+    "node-downloader-helper": "^2.0.1",
+    "nodemon": "^2.0.15",
+    "progress": "^2.0.3",
+    "progress-download": "^1.0.4",
+    "puppeteer": "^13.1.3",
+    "rapid-downloader": "^1.2.6",
+    "stream-promise": "^3.2.0"
+  },
+  "name": "nothing",
+  "version": "nothing",
+  "description": "nothing",
+  "main": "localhost/3000",
+  "repository": "nothing",
+  "author": "hero",
+  "license": "No llic",
+  "private": false,
+  "devDependencies": {
+    "@playwright/test": "^1.18.1"
+  },
+  "scripts": {}
+}
